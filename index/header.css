@@ -1,47 +1,7 @@
 
 
 
-.header {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    background-color: #ffffff;
-    width: 600px;
-    height: 120px;
-    border-radius: 5px;
-    box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    float: right;
-}
-.text {
-    position: relative;
-    color:#ff00f2;
-}
-
-body {
-    margin: 0;
-    font-family: 'Montserrat', sans-serif;
-}
-
-
-header {
-    background-color: khaki;
-    padding: 35px;
-    text-align: center;
-}
-
-article {
-    background-color: rgb(0, 68, 255);
-    padding: 300px;
-    text-align: center;
-}
-
-footer {
-    background-color: lawngreen;
-    padding: 20px;
-    text-align: center;
-}
 
 td {
-    border: 0px solid black;
+    border: 1px solid black;
 }
